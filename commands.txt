@@ -1,0 +1,1 @@
+sudo mongod --dbpath=/data // start a local instance of database
